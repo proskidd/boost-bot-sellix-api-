@@ -1,0 +1,29 @@
+{ 
+    "capmonsterKey": "capmonster key",
+    "bot_token": "",
+    "owner":"",
+    "prefix":"$",
+    "activity":".gg/yacoii",
+    "guildID": "",
+
+
+
+    "logchannel":"channel id for boost logs ",
+    "sellixchannel":"channelid of the sellix webhook",
+
+    "Paypal_Gmail":"",
+    "BTC_Addy":"bc1qeznkv0unltn28vlwthdthfh89sa4h42uazhn4a",
+    "LTC_Addy":"LRMXffWbk3j63NDw2duPV4sqK1V3cSaxxR",
+    "Eth_Addy":"N/A",
+    "SOL_Addy":"N/A",
+    "MON_Addy":"N/A",
+    "BHC_Addy":"N/A",
+
+    "Paypal_Emoji":"<:Paypal:1013196734387720195>",
+    "BTC_Emoji":"<:btc:1013196719707656272>",
+    "LTC_Emoji":"<:ltc:1013196737470529556>",
+    "Eth_Emoji":"<:eth:1013196730910658570>",
+    "SOL_Emoji":"<:solana:1013196713592365098>",
+    "MON_Emoji":"<:monero:1013196729966940190>",
+    "BHC_Emoji":"<:Bitcoin_Cash:1013196731946635284>"
+}

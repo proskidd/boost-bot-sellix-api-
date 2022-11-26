@@ -1,0 +1,17 @@
+{
+    "Level 1 server boost": {
+        "boosts": 2,
+        "months": 3
+    },
+    "Level 2 server boost": {
+        "boosts": 7,
+        "months": 3
+    },
+
+    "Level 3 server boost": {
+        "boosts": 14,
+        "months": 3
+      
+
+    }
+}
